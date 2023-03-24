@@ -1,0 +1,47 @@
+
+
+      body {
+        margin: 20px;
+      }
+      div {
+        margin: 20px;
+        padding: 20px;
+        border: 20px solid #dddddd;
+        width: 500px;
+      }
+      .cb {
+        box-sizing: content-box;
+      }
+      .bb {
+        box-sizing: border-box;
+      }
+      p{
+        margin:20px;
+      }
+
+h1 {
+    margin: 20px;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+  img {
+    display: block;
+    margin: 20px;
+  }
+h1.intro
+{
+    color:whitesmoke;
+    background: skyblue;
+    font-style: italic;
+    font-weight: bold;
+}
+div.box
+{
+    background: orange;
+    color: whitesmoke;
+}
+div h2 
+{
+    color:darkcyan;
+}
